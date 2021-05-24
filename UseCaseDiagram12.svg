@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="756" version="1.1" width="1241" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#ffffff" height="728" stroke="#ffffff" stroke-width="1" width="728" x="238" y="14"/>
+<rect fill="none" height="728" stroke="#000000" stroke-width="1" width="728" x="238" y="14"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="208" x="318" y="70"/>
+<rect fill="#ff0000" height="38" rx="16" ry="16" stroke="#ff0000" stroke-width="1" width="206" x="319" y="71"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="208" x="318" y="22"/>
+<rect fill="#ff0000" height="38" rx="16" ry="16" stroke="#ff0000" stroke-width="1" width="206" x="319" y="23"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="208" x="318" y="118"/>
+<rect fill="#ff0000" height="38" rx="16" ry="16" stroke="#ff0000" stroke-width="1" width="206" x="319" y="119"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="264" x="606" y="22"/>
+<rect fill="#ff00ff" height="38" rx="16" ry="16" stroke="#ff00ff" stroke-width="1" width="262" x="607" y="23"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="264" x="606" y="70"/>
+<rect fill="#ff00ff" height="38" rx="16" ry="16" stroke="#ff00ff" stroke-width="1" width="262" x="607" y="71"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="264" x="606" y="118"/>
+<rect fill="#ff00ff" height="38" rx="16" ry="16" stroke="#ff00ff" stroke-width="1" width="262" x="607" y="119"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="288" x="494" y="238"/>
+<rect fill="#999900" height="38" rx="16" ry="16" stroke="#999900" stroke-width="1" width="286" x="495" y="239"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="288" x="494" y="286"/>
+<rect fill="#999900" height="38" rx="16" ry="16" stroke="#999900" stroke-width="1" width="286" x="495" y="287"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="334" y="398"/>
+<rect fill="#0000ff" height="38" rx="16" ry="16" stroke="#0000ff" stroke-width="1" width="246" x="335" y="399"/>
+<rect fill="#ffffff" height="48" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="334" y="494"/>
+<rect fill="#0000ff" height="46" rx="16" ry="16" stroke="#0000ff" stroke-width="1" width="246" x="335" y="495"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="334" y="550"/>
+<rect fill="#0000ff" height="38" rx="16" ry="16" stroke="#0000ff" stroke-width="1" width="246" x="335" y="551"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="334" y="598"/>
+<rect fill="#0000ff" height="38" rx="16" ry="16" stroke="#0000ff" stroke-width="1" width="246" x="335" y="599"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="662" y="462"/>
+<rect fill="#00ff00" height="38" rx="16" ry="16" stroke="#00ff00" stroke-width="1" width="246" x="663" y="463"/>
+<rect fill="#ffffff" height="48" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="662" y="510"/>
+<rect fill="#00ff00" height="46" rx="16" ry="16" stroke="#00ff00" stroke-width="1" width="246" x="663" y="511"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="662" y="566"/>
+<rect fill="#00ff00" height="38" rx="16" ry="16" stroke="#00ff00" stroke-width="1" width="246" x="663" y="567"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="366" y="51">
+Manage Contents</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="374" y="91">
+Manage Media</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="366" y="139">
+Manage Videos</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="702" y="43">
+Create Category</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="710" y="91">
+Upload Media</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="710" y="139">
+Add Contents</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="598" y="259">
+Manage Login</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="590" y="307">
+Manage Uploads</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="422" y="523">
+Manage Images</text>
+<rect fill="none" height="17" stroke="#000000" stroke-width="1" width="100" x="406" y="662"/>
+<text font-family="Dialog" font-size="12" x="407" y="676">
+Manage Category </text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="374" y="619">
+Manage Locking and unlocking</text>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="334" y="654"/>
+<rect fill="#0000ff" height="38" rx="16" ry="16" stroke="#0000ff" stroke-width="1" width="246" x="335" y="655"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="662" y="614"/>
+<rect fill="#00ff00" height="38" rx="16" ry="16" stroke="#00ff00" stroke-width="1" width="246" x="663" y="615"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="406" y="571">
+Manage Decryption</text>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="208" x="318" y="166"/>
+<rect fill="#ff0000" height="38" rx="16" ry="16" stroke="#ff0000" stroke-width="1" width="206" x="319" y="167"/>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="264" x="606" y="166"/>
+<rect fill="#ff00ff" height="38" rx="16" ry="16" stroke="#ff00ff" stroke-width="1" width="262" x="607" y="167"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="366" y="187">
+Manage Keys</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="414" y="419">
+Manage Users</text>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="334" y="446"/>
+<rect fill="#0000ff" height="38" rx="16" ry="16" stroke="#0000ff" stroke-width="1" width="246" x="335" y="447"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="406" y="467">
+Manage Encryption</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="718" y="187">
+Registration</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="710" y="483">
+Change Account Password</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="358" y="675">
+Full Multimedia Content Protection</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="750" y="587">
+Update Profile</text>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="758" y="635">
+Search Media</text>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="662" y="662"/>
+<rect fill="#00ff00" height="38" rx="16" ry="16" stroke="#00ff00" stroke-width="1" width="246" x="663" y="663"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="718" y="683">
+Search Download History</text>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="248" x="662" y="414"/>
+<rect fill="#00ff00" height="38" rx="16" ry="16" stroke="#00ff00" stroke-width="1" width="246" x="663" y="415"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="686" y="531">
+Request For Opening and downloading</text>
+<rect fill="#ffffff" height="40" rx="16" ry="16" stroke="#000000" stroke-width="1" width="288" x="494" y="334"/>
+<rect fill="#999900" height="38" rx="16" ry="16" stroke="#999900" stroke-width="1" width="286" x="495" y="335"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="598" y="355">
+Search Media</text>
+<ellipse cx="1164" cy="143" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="1164" cy="143" fill="#ff00ff" rx="7.0" ry="6.5" stroke="#ff00ff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1164" x2="1164" y1="151" y2="166"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1154" x2="1174" y1="156" y2="156"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1164" x2="1159" y1="166" y2="181"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1164" x2="1169" y1="166" y2="181"/>
+<ellipse cx="1196" cy="399" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="1196" cy="399" fill="#00ff00" rx="7.0" ry="6.5" stroke="#00ff00" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1196" x2="1196" y1="407" y2="422"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1186" x2="1206" y1="412" y2="412"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1196" x2="1191" y1="422" y2="437"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1196" x2="1201" y1="422" y2="437"/>
+<ellipse cx="76" cy="423" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="76" cy="423" fill="#0000ff" rx="7.0" ry="6.5" stroke="#0000ff" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="76" x2="76" y1="431" y2="446"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="66" x2="86" y1="436" y2="436"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="76" x2="71" y1="446" y2="461"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="76" x2="81" y1="446" y2="461"/>
+<ellipse cx="52" cy="127" fill="#000000" rx="8.0" ry="7.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="52" cy="127" fill="#ff0000" rx="7.0" ry="6.5" stroke="#ff0000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="52" x2="52" y1="135" y2="150"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="42" x2="62" y1="140" y2="140"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="52" x2="47" y1="150" y2="165"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="52" x2="57" y1="150" y2="165"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="86" x2="318" y1="150" y2="62"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="86" x2="318" y1="158" y2="94"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="86" x2="318" y1="158" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="86" x2="326" y1="158" y2="190"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="94" x2="486" y1="166" y2="254"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="94" x2="494" y1="174" y2="294"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="86" x2="334" y1="198" y2="398"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="78" x2="334" y1="230" y2="502"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="86" x2="334" y1="206" y2="446"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="70" x2="334" y1="246" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="110" x2="318" y1="430" y2="62"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="126" x2="318" y1="438" y2="94"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="142" x2="318" y1="438" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="150" x2="326" y1="446" y2="190"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="134" x2="486" y1="454" y2="254"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="134" x2="494" y1="454" y2="294"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="134" x2="334" y1="462" y2="446"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="134" x2="334" y1="462" y2="502"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="134" x2="334" y1="462" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="134" x2="334" y1="462" y2="606"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="878" x2="1150" y1="198" y2="150"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="870" x2="1150" y1="46" y2="150"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="926" x2="926" y1="86" y2="86"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1150" x2="870" y1="150" y2="86"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1150" x2="870" y1="150" y2="134"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="694" y="435">
+Delete Account and Delete Media</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1150" x2="910" y1="150" y2="430"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1158" x2="910" y1="166" y2="486"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="782" x2="1166" y1="350" y2="422"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="870" x2="1166" y1="198" y2="422"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="94" x2="334" y1="158" y2="670"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1158" x2="910" y1="174" y2="582"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1166" x2="910" y1="422" y2="630"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1166" x2="910" y1="422" y2="686"/>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="74" x="14" y="182"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="15" y="196">
+Super Admin</text>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="81" x="38" y="470"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="39" y="484">
+System Users</text>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="46" x="1158" y="182"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="1159" y="196">
+Authors</text>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="35" x="1190" y="446"/>
+<text font-family="Dialog" font-size="12" font-weight="bold" x="1191" y="460">
+Users</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="526" x2="606" y1="38" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="526" x2="606" y1="94" y2="94"/>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="41" x="540" y="38"/>
+<text font-family="Dialog" font-size="12" x="541" y="52">
+include</text>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="41" x="534" y="102"/>
+<text font-family="Dialog" font-size="12" x="535" y="116">
+include</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="654" x2="654" y1="206" y2="238"/>
+<rect fill="none" height="17" stroke="#ffffff" stroke-width="1" width="41" x="662" y="214"/>
+<text font-family="Dialog" font-size="12" x="663" y="228">
+include</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="494" x2="430" y1="262" y2="398"/>
+<text font-family="Dialog" font-size="12" x="438" y="387">
+include</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="662" x2="582" y1="430" y2="422"/>
+<text font-family="Dialog" font-size="12" x="614" y="419">
+extend</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="662" x2="614" y1="646" y2="670"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="662" x2="614" y1="686" y2="670"/>
+<text font-family="Dialog" font-size="12" x="606" y="651">
+extend</text>
+</svg>
